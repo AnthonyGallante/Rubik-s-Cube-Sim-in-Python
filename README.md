@@ -28,7 +28,7 @@ https://github.com/user-attachments/assets/dd83e17a-3a29-4a41-bb21-9c81d5045a19
 
 1. Clone the repository:
    ```
-   git clone https://github.com/yourusername/rubiks-cube-simulator.git
+   git clone https://github.com/AnthonyGallante/rubiks-cube-simulator.git
    cd rubiks-cube-simulator
    ```
 
