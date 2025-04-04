@@ -2,6 +2,8 @@
 
 A 3D interactive Rubik's Cube simulation with Nintendo 64 style graphics built using Python, Tkinter, and OpenGL.
 
+https://github.com/user-attachments/assets/dd83e17a-3a29-4a41-bb21-9c81d5045a19
+
 ## Features
 
 - 3D rendered Rubik's Cube with Nintendo 64 style low-poly graphics
