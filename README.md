@@ -1,12 +1,12 @@
 # Rubik's Cube Simulator
 
-A 3D interactive Rubik's Cube simulation with Nintendo 64 style graphics built using Python, Tkinter, and OpenGL.
+A 3D interactive Rubik's Cube simulation built using Python, Tkinter, and OpenGL.
 
 https://github.com/user-attachments/assets/dd83e17a-3a29-4a41-bb21-9c81d5045a19
 
 ## Features
 
-- 3D rendered Rubik's Cube with Nintendo 64 style low-poly graphics
+- 3D rendered Rubik's Cube with low-poly graphics
 - Dark-themed, responsive GUI
 - Interactive controls to rotate cube faces
 - View manipulation (rotate and zoom)
@@ -79,9 +79,6 @@ rubiks_cube/
 ├── __init__.py
 └── main.py                # Entry point
 ```
-
-## License
-
 This project is licensed under the MIT License - see the LICENSE file for details.
 
 ## Acknowledgments
